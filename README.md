@@ -1,8 +1,8 @@
-# React + Vite
+## 📌 React Project: Login and Signup Form with useState Hook <br>
+In this project, I implemented a login and signup form in React.js, showcasing the practical use of the useState hook for toggling between forms. <br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Key Highlights: <br>
+-> useState Hook: Used to manage and toggle the form state dynamically. <br>
+-> Simple UI/UX: Clean and user-friendly design for easy interaction. <br>
+-> React Concepts: Strengthened my understanding of React state management. <br>
+-> Feel free to check out the code, explore, and leave suggestions for improvements! 🚀 <br>
